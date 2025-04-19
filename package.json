@@ -1,0 +1,22 @@
+{
+  "name": "resturant-chatbot-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elizabeth J",
+  "license": "ISC",
+  "description": "this is a restaurant chat-bot",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
