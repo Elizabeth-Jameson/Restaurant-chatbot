@@ -10,7 +10,7 @@ const menuItems = [
     { id: 9, name: "Chicken and Chips", price: 9500 },
     {id: 10, name: "white Rice with Stew", price: 5000 },
     {id: 11, name: "Afang soup and fufu", price: 5000},
-    {id: 13, name: "A glass of fresh juice", price: 3500}
+    {id: 12, name: "A glass of fresh juice", price: 3500}
   ]
    
   
